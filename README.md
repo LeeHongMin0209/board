@@ -25,9 +25,11 @@
 
 ## 글쓰기 
 
-
-![답글쓰기](https://user-images.githubusercontent.com/64480971/82088831-70cc9680-972d-11ea-9fdf-31cfdf7be50a.gif)
-
-
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/64480971/82088488-d10f0880-972c-11ea-934d-45dd48842a80.gif)
 
+***
+
+## 답글 쓰기
+
+
+![답글쓰기](https://user-images.githubusercontent.com/64480971/82088831-70cc9680-972d-11ea-9fdf-31cfdf7be50a.gif)
