@@ -25,5 +25,6 @@
 
 ## 글쓰기 
 
-![ezgif com-video-to-gif](https://user-images.githubusercontent.com/64480971/82087865-e9caee80-972b-11ea-8448-70a2d963da52.gif)
+
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/64480971/82088488-d10f0880-972c-11ea-934d-45dd48842a80.gif)
 
